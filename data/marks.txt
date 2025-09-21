@@ -1,0 +1,66 @@
+101,Mathematics,85
+101,Physics,78
+101,Chemistry,82
+102,Mathematics,91
+102,Physics,88
+102,Chemistry,94
+103,Mathematics,76
+103,Physics,68
+103,English,81
+104,Chemistry,88
+104,English,92
+104,Biology,85
+105,English,75
+105,Biology,65
+105,History,71
+106,Biology,95
+106,Chemistry,98
+106,Mathematics,99
+107,Mathematics,89
+107,Physics,82
+108,Mathematics,72
+108,Physics,75
+109,Chemistry,90
+109,English,84
+110,English,88
+110,Biology,79
+111,Biology,91
+111,Chemistry,93
+112,History,80
+112,Geography,85
+113,History,78
+113,Geography,72
+114,Geography,88
+114,Hindi,90
+115,Geography,79
+115,Hindi,82
+116,Social Studies,92
+116,Hindi,88
+117,Social Studies,95
+117,Hindi,91
+118,Social Studies,81
+118,Art,85
+119,Social Studies,88
+119,Art,92
+120,Computer Science,99
+120,General Science,94
+121,Computer Science,96
+121,General Science,91
+122,Physical Education,85
+122,Art,80
+123,Physical Education,92
+123,Art,88
+124,General Science,78
+124,Art,75
+125,General Science,82
+125,Art,80
+126,Art,95
+126,Physical Education,89
+127,Art,91
+127,Physical Education,85
+128,Mathematics,94
+128,Physics,90
+129,Chemistry,89
+129,English,93
+130,Biology,96
+130,Mathematics,92

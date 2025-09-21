@@ -1,0 +1,13 @@
+201,Anjali,Rao,Mathematics
+202,Vikram,Nair,Physics
+203,Sunita,Williams,Chemistry
+204,Rajesh,Kumar,English
+205,Meera,Desai,Biology
+206,Suresh,Gupta,History
+207,Priya,Sharma,Geography
+208,Amit,Patel,Social Studies
+209,Deepa,Iyer,Hindi
+210,Ravi,Varma,Computer Science
+211,Lakshmi,Menon,Physical Education
+212,Arun,Jha,General Science
+213,Kavita,Singh,Art
