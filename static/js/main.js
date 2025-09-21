@@ -264,7 +264,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- Initial Setup ---
     async function init() {
         try {
-            const response = await fetch(${API_URL}/status);
+            const response = await fetch(`${API_URL}/status`);
             if (!response.ok) {
                 alert('Error: Backend server is not responding. Please start the Python server by running "python app.py".');
             }
