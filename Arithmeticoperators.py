@@ -80,5 +80,3 @@ c=4
 Average=a+b+c
 print("The average of three numbers")
 
-
-

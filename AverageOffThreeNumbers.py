@@ -12,3 +12,4 @@ demo = AverageOffThreeNumbers()
 
 # Call method
 demo.average_off_three_numbers(10, 20, 30)
+
