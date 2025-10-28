@@ -1,5 +1,4 @@
 from StudentMarks import StudentMarks
-from examples.TestRectangle import result
 
 s1 =  StudentMarks()
 

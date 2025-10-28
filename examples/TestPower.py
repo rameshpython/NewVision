@@ -1,4 +1,10 @@
 from Power import Power
+
 p1 = Power()
-output = p1.calculate()
-print("the result of a**b**2 is:",output)
+result1 = p1.calculate(5,2)
+print("First result:",result1)
+result2 = p1.calculate(4,3)
+print("Second result:",result2)
+
+
+

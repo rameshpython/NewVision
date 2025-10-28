@@ -1,7 +1,5 @@
 from examples.TotalCost import TotalCost
 
 t1 = TotalCost()
-t1.get_data(5, 100)
-result = t1.calculate_total()
+result = t1.calculate_total(6,34)
 print("Total Cost =", result)
-print(result)
