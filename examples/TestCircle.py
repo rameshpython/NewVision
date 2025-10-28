@@ -1,10 +1,11 @@
-from Circle import Circle         #imported the class
+from Circle import Circle
 
-circle = Circle()
-# result = circle.find_area(10,5)
-# anotherResult = circle.find_area(20,4)
+c1 = Circle()
+area = c1.find_area(6,23)
+sum = c1.find_calculation(10,20)
+print("Area of circle:", area)
+print("Sum of two numbers:", sum)
 
-# sum = circle.find_calculation(10,20)
 
 
 

@@ -7,5 +7,7 @@ class Circle:
         return area
 
     def find_calculation(self,firstValue, secondValue):
-        sumOfTwoNumbers = firstValue+secondValue
+        sumOfTwoNumbers = firstValue + secondValue
         return sumOfTwoNumbers
+
+
