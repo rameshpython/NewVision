@@ -1,3 +1,4 @@
+#Write a program to check if one number is a multiple of another using modulus operator.
 class MultipleCheck:
     def __init__(self):
         pass
