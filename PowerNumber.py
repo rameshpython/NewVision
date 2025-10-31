@@ -8,21 +8,20 @@ class PowerNumber:
         return num
 
     #default argument
-    def find_default(self,num=8):
+    def power_by_default(self,num=8):
         num **= 4
         return(num)
 
     #keyward argument
-    def key_value(self):
-        key_num = 43
-        key_num **= 6
-        return key_num
+    def power_with_inputs(self,num1,num2):
+        return num1 ** 2, num2 ** 3
 
-    #varaible length argument
-    def varaiable_length(self, *args):
-        return [self.find_power(num) for num in args]
+    #variable length argument
+    def powers_from_values(self, *args):
+        return [num ** 2 for num in args]
+
 
     #keyword varaible length arguments
-    def keyword_varriable(self, **kwargs):
-        return {k: self.find_power(v) for k , v in kwargs.items()}
+    def powers_from_items(self, **kwargs):
+        return {k : v ** 3 for k , v in kwargs.items()}
 

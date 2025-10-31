@@ -9,23 +9,24 @@ class RemainderNumber:
         return num
 
      #default argument
-    def default_remainder(self,num = 15):
+    def remainder_by_default(self,num = 15):
         num %= 23
         return num
 
      #keyword argument
-    def key_value(self):
-        key_num = 27
-        result = key_num % 35
+    def remainder_by_value(self, num):
+        result = num % 35
         return result
 
      #varaible length argument
-    def variable_length(self, *args):
-        return [self.find_remainder(num) for num in args]
+    def  remainders_from_values(self, *args):
+        return [num % 18 for num in args]
 
      #keyword variable length argument
-    def keyword_varriable(self, **kwargs):
-        return {k: self.find_remainder(v) for k , v in kwargs.items()}
+    def remainders_from_items(self, **kwargs):
+        return {k : v % 27  for k , v in kwargs.items()}
+
+
 
 
 
