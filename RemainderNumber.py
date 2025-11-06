@@ -1,5 +1,3 @@
-
-
 class RemainderNumber:
     def __init__(self):
         pass
@@ -21,6 +19,8 @@ class RemainderNumber:
      #varaible length argument
     def  remainders_from_values(self, *args):
         return [num % 18 for num in args]
+
+
 
      #keyword variable length argument
     def remainders_from_items(self, **kwargs):
