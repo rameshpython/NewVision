@@ -80,16 +80,16 @@ class ExploringKeywordLengthArgument:
 
 
 
-    def check_key_value_types(self, **keyword_arguments):
+    def checking_tyecasting(self, **keyword_arguments):
         dictionary = {}
 
         for key, value in keyword_arguments.items():
             if type(value) == int:
                 dictionary[key] = str(value) + str(type(value))
             elif type(value) == str:
-                dictionary[key] = value + str(type(value))
+                dictionary[key] = value + " : String Datatype"
             elif type(value) == float:
-                dictionary[key] = format(value, ".6f") + str(type(value))
+                dictionary[key] = format(value, ".6f") +": Float Datatype"
             else:
                 dictionary[key] = value
 
