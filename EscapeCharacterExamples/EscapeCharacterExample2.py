@@ -7,23 +7,23 @@ print("Dear Students,")
 
 print("Today you will learn all escape charaters:")
 #1.
-print("Hello\nworld")
+print("1.New Line:Hello\nWorld" )
 #2.
-print("\t:This text starts after a tab")
+print("2.Tab:\tThis text starts after a tab")
 #3.
-print("Backslash:This is a backslash->\\")
+print("3.Backslash:This is a backslash->\\")
 #4.
-print("Single Quote:it\'s a great day to learn python")
+print("4.Single Quote:it\'s a great day to learn python")
 #5.
-print("Double Quote:He said\''python is awesome!\''")
+print("5.Double Quote:He said\''python is awesome!\''")
 #6.
-print("Backspace:ABC\bD (C is removed)")
+print("6.Backspace:ABC\bD (C is removed)")
 #7.
-print("carriage Return:hello how are you\rcarriage Return:Startcome to Python")
+print("7.carriage Return:hello how are you\rcarriage Return:Startcome to Python")
 #8.
-print("Form Feed:First page\f\n\t\tSecond page(form feed)")
+print("8.Form Feed:First page\f\n\t\tSecond page(form feed)")
 #9.
-print("Vertical Tab:Line1\v\n\t\tLine2")
+print("9.Vertical Tab:Line1\v\n\t\tLine2")
 
 
 print("=====TABLE EXAMPLE=====")
