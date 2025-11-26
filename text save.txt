@@ -1,0 +1,26 @@
+
+=========COMPANY  LETTER HEAD============
+krish Tech solutions
+Hyderabad,Telangana
+subject:	python Escape character Demo
+Dear Students,
+Today you will learn all escape charaters:
+1.New Line:Hello
+World
+2.Tab:	This text starts after a tab
+3.Backslash:This is a backslash->\
+4.Single Quote:it's a great day to learn python
+5.Double Quote:He said''python is awesome!''
+6.Backspace:ABD (C is removed)
+carriage Return:Startcome to Python
+8.Form Feed:First page
+		Second page(form feed)
+9.Vertical Tab:Line1
+		Line2
+=====TABLE EXAMPLE=====
+NAME		AGE	CITY
+krish		36	Hyderabad
+Rahul		22	Delhi
+=====END OF DEMO=====
+
+Process finished with exit code 0
