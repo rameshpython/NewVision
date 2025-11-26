@@ -183,3 +183,16 @@ print("Hello\vworld")
 
 print("hello how are you\v do some thing    ")
 
+print("A\vB")
+
+print("A\v\vB")
+
+print("line1\vline2")
+
+text = "First\vSecond\vThird"
+print(text)
+
+# \a Bell sound alert
+
+print("\a") #Beep sounnd in some systems
+
